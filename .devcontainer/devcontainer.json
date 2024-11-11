@@ -22,7 +22,8 @@
         // use prettier code formatter as default formatter
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "prettier.configPath": ".prettierrc",
-        "editor.formatOnSave": true
+        "editor.formatOnSave": true,
+        "rubyLsp.rubyVersionManager": "none"
       }
     }
   },
