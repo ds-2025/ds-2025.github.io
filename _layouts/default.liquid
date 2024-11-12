@@ -20,11 +20,11 @@
     <!-- Header -->
     {% include header.liquid %}
 
-    <!-- Banner with image and conf name-->
+    <!-- Banner with image and conf name -->
     {% if page.banner_image %}
       <div class="banner-image">
         <div class="banner-text">
-          <h1>{{ page.title | newline_to_br}}</h1>
+          <h1>{{ page.title | newline_to_br }}</h1>
           {% if page.subtitle %}
             <h2>{{ page.subtitle }}</h2>
           {% endif %}

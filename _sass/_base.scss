@@ -1307,7 +1307,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 .banner-image {
   min-height: 80%;
-  background-image: url(/assets/custom_images/landing_page.png);
+  background-image: url(/assets/img/landing_page.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1332,4 +1332,8 @@ ninja-keys::part(ninja-input-wrapper) {
   text-shadow: 3px 3px 2px black;
   font-weight: bold;
   text-align: center;
+}
+
+.nav-logo {
+  width: 80%;
 }
