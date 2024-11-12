@@ -5,7 +5,7 @@
       <!-- Navbar Logo Brand -->
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
         {% if site.logo %}
-          <img src="/assets/img/{{ site.logo | relative_url }}" alt="{{ site.title }}" class="nav-logo" />
+          <img src="/assets/img/{{ site.logo | relative_url }}" alt="{{ site.title }}" class="nav-logo">
         {% else %}
           {{ site.title }}
         {% endif %}
@@ -35,6 +35,13 @@
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
+
+          <!-- Home -->
+          {% if page.permalink != '/' %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+            </li>
+          {% endif %}
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}

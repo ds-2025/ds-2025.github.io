@@ -1337,3 +1337,9 @@ ninja-keys::part(ninja-input-wrapper) {
 .nav-logo {
   width: 80%;
 }
+
+@media (max-width: 575.98px) {
+  #navbar .container {
+    flex-wrap: nowrap !important;
+  }
+}
