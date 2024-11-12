@@ -20,6 +20,18 @@
     <!-- Header -->
     {% include header.liquid %}
 
+    <!-- Banner with image and conf name-->
+    {% if page.banner_image %}
+      <div class="banner-image">
+        <div class="banner-text">
+          <h1>{{ page.title | newline_to_br}}</h1>
+          {% if page.subtitle %}
+            <h2>{{ page.subtitle }}</h2>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}

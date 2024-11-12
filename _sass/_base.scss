@@ -1304,3 +1304,32 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.banner-image {
+  min-height: 80%;
+  background-image: url(/assets/custom_images/landing_page.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner-text {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.banner-text h1 {
+  font-size: 3rem;
+  color: #fbc525;
+  text-shadow: 3px 3px 2px black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.banner-text h2 {
+  font-size: 2rem;
+  color: #fbc525;
+  text-shadow: 3px 3px 2px black;
+  font-weight: bold;
+  text-align: center;
+}

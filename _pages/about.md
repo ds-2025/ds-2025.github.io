@@ -1,8 +1,11 @@
 ---
 layout: about
-title: about
+title: |
+  28<sup>th</sup> International Conference on  
+  Discovery Science 2025
+subtitle: September 22-26, 2025 • Ljubljana, Slovenia
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+banner_image: assets/custom_images/landing_page.png
 
 profile:
   align: right
