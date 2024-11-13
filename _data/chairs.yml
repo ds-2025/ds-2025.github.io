@@ -19,3 +19,7 @@ chairs:
     affilitation: University of Cambridge
     role: Program Chair
     image: nikola-simidjievski.png
+
+program_committee:
+#  - name:
+#    affiliation:

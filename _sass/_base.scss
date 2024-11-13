@@ -1359,3 +1359,42 @@ ninja-keys::part(ninja-input-wrapper) {
   justify-content: space-evenly;
   row-gap: 20px;
 }
+
+.pad {
+  border: 1px solid #ecf0f1;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  height: auto;
+  text-align: center;
+  position: initial;
+}
+
+.shadow {
+  box-shadow: 0 22px 43px rgba(0, 0, 0, 0.15);
+  -webkit-transition:
+    -webkit-transform 0.3s ease,
+    border 0.3s ease,
+    -webkit-box-shadow 0.3s ease,
+    background 0.3s ease,
+    z-index 0.3s ease;
+  -moz-transition:
+    -moz-transform 0.3s ease,
+    border 0.3s ease,
+    -moz-box-shadow 0.3s ease,
+    background 0.3s ease,
+    z-index 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    border 0.3s ease,
+    box-shadow 0.3s ease,
+    background 0.3s ease,
+    z-index 0.3s ease;
+}
+
+.shadow:hover {
+  box-shadow: 0 22px 43px rgba(0, 0, 0, 0.15);
+  transform: translateY(-8px);
+}

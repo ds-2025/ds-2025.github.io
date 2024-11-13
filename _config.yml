@@ -9,10 +9,9 @@ last_name:
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   28th International Conference on Discovery Science 2025
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text: |
+  Discovery Science 2025 - September 22-26, 2025 - Ljubljana, Slovenia.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: discovery-science, international-conference # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: dslogo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -114,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You may also contact the organizers via their institutional email addresses.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
