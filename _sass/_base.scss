@@ -1343,3 +1343,14 @@ ninja-keys::part(ninja-input-wrapper) {
     flex-wrap: nowrap !important;
   }
 }
+
+.card-org {
+  text-align: center;
+  min-width: 256px;
+  max-width: 256px;
+}
+
+.card-deck-org {
+  justify-content: space-evenly;
+  row-gap: 20px;
+}
