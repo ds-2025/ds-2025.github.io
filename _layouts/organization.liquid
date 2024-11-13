@@ -2,17 +2,14 @@
     layout: default
 ---
 {% if page._styles %}
-    <!-- Page/Post style -->
-    <style type="text/css">
+  <!-- Page/Post style -->
+  <style type="text/css">
     {{ page._styles }}
-    </style>
+  </style>
 {% endif %}
-
 
 {% assign parts = content | split: '<!-- split -->' %}
 <div class="row">
-    <div class="col-sm-9">{{ parts[0] }}</div>
-    <div class="col-sm-3">{{ parts[1] }}</div>
+  <div class="col-sm-9">{{ parts[0] }}</div>
+  <div class="col-sm-3">{{ parts[1] }}</div>
 </div>
-
-
