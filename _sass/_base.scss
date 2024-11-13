@@ -1342,6 +1342,11 @@ ninja-keys::part(ninja-input-wrapper) {
   #navbar .container {
     flex-wrap: nowrap !important;
   }
+
+  .card-deck-org {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .card-org {
