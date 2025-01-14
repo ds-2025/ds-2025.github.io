@@ -41,7 +41,7 @@ Possible topics include, but are not limited to:
 - **Full paper submission deadline:** May 24, 2025
 - **Deadline for review submission:** June 24, 2025
 - **Notification of acceptance:** July 7, 2025
-- **Camera-ready version, author registration:** July 21, 2025
+- **Camera-ready version, author registration:** July 18, 2025
 
 All dates are specified as 23:59:59 SST (Standard Samoa Time / Anywhere on Earth)
 
