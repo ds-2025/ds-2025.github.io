@@ -6,7 +6,7 @@ title: Discovery Science 2025 # the website title (if blank, full name will be u
 first_name:
 middle_name:
 last_name:
-email: you@example.com
+email: mailto:ds2025@ijs.si
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   28th International Conference on Discovery Science 2025
 footer_text: |
