@@ -79,7 +79,7 @@ Submission System: [https://cmt3.research.microsoft.com/DS2025/](https://cmt3.re
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
-## Main conference
+##### **Main conference**
 
 We invite original contributions that have not been previously published to another venue. The page limit for the contributions submitted to the main conference, including special sessions, is 15 pages in the LNCS format (note that 15 pages in LNCS format is roughly equivalent to 8 pages in NeurIPS format). This includes figures, title pages, references, and appendices.
 
@@ -87,7 +87,7 @@ Submission of the camera-ready version of the paper has to include the authorsâ€
 
 Accepted papers will be published in the [Discovery Science Springer LNCS series](https://link.springer.com/conference/dis).
 
-## One-day event (Workshops)
+##### **One-day event (Workshops)**
 
 We invite original technical/position papers or contributions discussing published works. We particularly welcome contributions presenting initial or late-breaking results as well as ongoing work, including works currently under review at other venues.
 
