@@ -1,21 +1,21 @@
 gen_chairs:
   - name: Sašo Džeroski
-    affilitation: Jozef Stefan Institute, Ljubljana
+    affilitation: Jozef Stefan Institute, Slovenia
     image: "saso-dzeroski.png"
   - name: Vida Groznik
-    affilitation: University of Ljubljana
+    affilitation: University of Ljubljana, Slovenia
     image: vida-groznik.png
 
 prog_chairs:
   - name: Jurica Levatić
-    affilitation: Jozef Stefan Institute, Ljubljana
+    affilitation: Jozef Stefan Institute, Slovenia
     image: jurica-levatic.png
   - name: Gianvito Pio
-    affilitation: University of Bari "Aldo Moro"
+    affilitation: University of Bari "Aldo Moro", Italy
     role: Program Chair
     image: gianvito-pio.png
   - name: Nikola Simidjievski
-    affilitation: University of Cambridge
+    affilitation: Télécom Paris, Institut Polytechnique de Paris, France
     image: nikola-simidjievski.png
 
 program_committee:
