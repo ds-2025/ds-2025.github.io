@@ -31,14 +31,15 @@ The conference’s relevant topics include, but are not limited to:
   - Unstructured Data Analysis (textual and web data)
   - Learning on graphs and other topologies
   - Complex Network Analysis
-- Causal Modelling and reasoning
-- Neuro-symbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
+- Causal Modeling and reasoning
+- Neuro-symbolic learning & hybrid AI systems (logic & formal reasoning, etc.)
+- Physics-informed machine learning
+- Computational equation discovery and Symbolic Regression
 - Data and Knowledge Visualization
 - Explainable AI and Interpretable Machine Learning
 - Human-Machine Interaction for Knowledge Discovery and Management
 - AI and High-performance Computing, Grid and Cloud Computing
 - Optimisation
-- AI and Cybersecurity
 - AI Creativity
 - Process Discovery and Analysis
 - Evaluation of Models and Predictions in Discovery Setting
