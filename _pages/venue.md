@@ -41,14 +41,3 @@ The social dinner will be held at the **Hotel Union in the city center**.
     <img src="/assets/img/venue/2.jpg" class="img-fluid img-center" alt="Social event 2">
   </div>
 </div>
-
-<div class="row" style="margin-top: 100px;">
-  {% assign all_files = site.static_files | where_exp: "file", "file.path contains '/assets/img/sponsor/'" %}
-  {% assign sponsor_images = all_files | where_exp: "file", "file.extname != '.webp'" %}
-   
-  {% for image in sponsor_images %}
-    <div class="col-md-2 mb-4 text-center mx-auto">
-      <img src="{{ image.path }}" class="img-fluid img-center" alt="Sponsor" style="max-height: 100px;">
-    </div>
-  {% endfor %}
-</div>
