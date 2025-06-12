@@ -90,4 +90,4 @@ DS2025 will include several satellite events dedicated to specific applications 
 
 For the parallel one-day events, the page limit for contributions is 2 pages in LNCS format, including figures, title pages, references, and appendices. Submissions to the parallel one-day events are non-archival and, therefore, will not be included in the conference proceedings.
 
-Please check [ai4science.ijs.si](https://ai4science.ijs.si/) for more details.
+Please check [ai4science.si](https://ai4science.si/) for more details.
