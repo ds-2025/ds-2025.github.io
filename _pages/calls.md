@@ -92,8 +92,8 @@ For the parallel one-day events, the page limit for contributions is 2 pages in 
 
 Please check [ai4science.si](https://ai4science.si/) for more details.
 
-<!---### **Call for Late Breaking Contributions**
+### **Call for Late Breaking Contributions**
 
 DS2025 provides an open forum for intensive discussions and exchange of new ideas among researchers working in the area of Discovery Science. The conference focus is on the use of Artificial Intelligence, Data Science and Big Data Analytics methods in science. Its scope includes the development and analysis of methods for discovering scientific knowledge, coming from machine learning, data mining, intelligent data analysis, and big data analytics, as well as their application in various domains.
 
-Please check [Call for Late Breaking Contributions](/CfPosters/) for more details. -->
+Please check [Call for Late Breaking Contributions](/CfPosters/) for more details.

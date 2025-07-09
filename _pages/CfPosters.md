@@ -29,6 +29,6 @@ Poster submissions should describe late-breaking research results, on-going rese
 
 The submissions should not be anonymised. Each submission will be reviewed by 2 members of the Program Committee.
 
-Late Breaking Contributions will not be published in conference proceedings.
+**Late Breaking Contributions are non-archival and will not be published in a conference proceedings.**
 
 At least one of the authors must be a registered participant at the conference to present the work.
