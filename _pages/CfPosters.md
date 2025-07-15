@@ -16,8 +16,8 @@ We invite submissions relevant to Discovery Science and which address, but are n
 
 ## Important Dates
 
-- **Submission due:** August 15, 2025
-- **Notification of acceptance:** August 22, 2025
+- **Submission due:** August 30, 2025
+- **Notification of acceptance:** continuous (at most one week after the submission)
 
 All dates are specified as 23:59:59 SST (Standard Samoa Time / Anywhere on Earth)
 
