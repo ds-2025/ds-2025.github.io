@@ -287,6 +287,14 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
+  .navbar-nav{
+    align-items: center
+  }
+
+  .nav-item{
+    flex-shrink: 0;
+  }
+
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
 
@@ -1403,4 +1411,35 @@ ninja-keys::part(ninja-input-wrapper) {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.speaker-link,
+.speaker-link h4,
+.speaker-link h5 {
+  text-decoration: none;
+}
+
+.speaker-link:link, .speaker-link:link h4, .speaker-link:link h5 {
+  text-decoration: none;
+}
+
+.speaker-link:visited, .speaker-link:visited h4, .speaker-link:visited h5 {
+  text-decoration: none;
+}
+
+.speaker-link:active, .speaker-link:active h4, .speaker-link:active h5 {
+  text-decoration: none;
+}
+
+.speaker-link:hover, .speaker-link:hover h4, .speaker-link:hover h5{ 
+  text-decoration: none;
+  color: var(--global-theme-color);
+  transition: all 0.2s ease-in-out;
+}
+
+@media (min-width: 768px) {
+  .speaker-img {
+    max-width: 300px;
+    height: auto;
+  }
 }

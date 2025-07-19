@@ -4,7 +4,7 @@ permalink: /venue/
 title: Venue
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 The Discovery Science 2025 International Conference will take place between 22 and 26 September 2025 **at the University of Ljubljana’s Faculty of Computer and Information Science (UL FRI)**.
