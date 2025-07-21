@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /speakers/
-title: Invited Speakers
+title: Keynote Speakers
 description:
 nav: true
 nav_order: 3
