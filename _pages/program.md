@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-To be announced!
+The conference will be held on September 23-35, 2025 in Ljubljana, Slovenia. The detailed programme will be published soon.
