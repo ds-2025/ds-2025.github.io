@@ -6,7 +6,7 @@ title: |
 subtitle: September 23-25, 2025 • Ljubljana, Slovenia
 desc:
 permalink: /
-banner_image: assets/img/landing_page_3.jpg
+banner_image: assets/img/landing_page_3_1.jpg
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
