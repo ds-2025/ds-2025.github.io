@@ -10,7 +10,7 @@ email: ds2025@ijs.si
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   28th International Conference on Discovery Science 2025
 footer_text: |
-  Discovery Science 2025 - September 22-26, 2025 - Ljubljana, Slovenia.
+  Discovery Science 2025 - September 23-25, 2025 - Ljubljana, Slovenia.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: discovery-science, international-conference # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
