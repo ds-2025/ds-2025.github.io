@@ -7,7 +7,7 @@ nav: false
 nav_order:
 ---
 
-<img src="/assets/img/speakers/Joaquin-Vanschoren.jpeg" class="img-fluid img-center speaker-img" alt="Joaquin Vanschoren">
+<img src="/assets/img/speakers/joaquin-vanschoren.jpeg" class="img-fluid img-center speaker-img" alt="Joaquin Vanschoren">
 
 ## Auto-continual learning
 
