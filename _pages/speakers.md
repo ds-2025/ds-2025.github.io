@@ -28,7 +28,7 @@ nav_order: 3
     </div>
     <div class="card card-org item-expand">
         <a href="/speakers/joaquinvanschoren/" class="speaker-link">
-            <img class="card-img-top shadow" src="/assets/img/speakers/Joaquin-Vanschoren.jpeg" alt="Joaquin Vanschoren">
+            <img class="card-img-top shadow" src="/assets/img/speakers/joaquin-vanschoren.jpeg" alt="Joaquin Vanschoren">
             <div class="card-body">
                 <h4 class="card-title">Joaquin Vanschoren</h4>
                 <h5>Auto-continual learning</h5>
