@@ -19,3 +19,261 @@ prog_chairs:
     image: nikola-simidjievski.png
 
 program_committee:
+ - name: Pedro Henriques Abreu
+   affiliation: CISUC
+ - name: Reza Akbarinia
+   affiliation: INRIA
+ - name: Thiago Andrade
+   affiliation: INESC TEC - LIAAD
+ - name: Giuseppina Andresini
+   affiliation: University of Bari Aldo Moro
+ - name: Fabrizio Angiulli
+   affiliation: University of Calabria
+ - name: Mário Antunes
+   affiliation: Universidade de Aveiro
+ - name: Annalisa Appice
+   affiliation: University of Bari Aldo Moro
+ - name: Martin Atzmueller
+   affiliation: Osnabrück University & DFKI
+ - name: Isacco Beretta
+   affiliation: Università di Pisa
+ - name: Robert Bossy
+   affiliation: INRA MaIAGE
+ - name: Henrik Boström
+   affiliation: KTH Royal Institute of Technology
+ - name: Jure Brence
+   affiliation: Jozef Stefan Institute
+ - name: Francesca Bugiotti
+   affiliation: Laboratoire interdisciplinaire des sciences du numérique (LISN)
+ - name: Veronica Buttaro
+   affiliation: Università degli Studi di Bari "Aldo Moro"
+ - name: Maik Büttner
+   affiliation: Otto-von-Guericke University Magdeburg
+ - name: Pedro C. Vieira
+   affiliation: Faculty of Sciences of University of Porto
+ - name: Christian L. Camacho-Villalón
+   affiliation: Jožef Stefan Institute
+ - name: Riccardo Cantini
+   affiliation: University of Calabria
+ - name: Michelangelo Ceci
+   affiliation: University of Bari
+ - name: Mattia Cerrato
+   affiliation: JGU Mainz
+ - name: Ricardo Cerri
+   affiliation: Federal University of São Carlos
+ - name: Martina Cinquini
+   affiliation: University of Pisa
+ - name: Silvia Corbara
+   affiliation: Scuola Normale Superiore
+ - name: Roberto Corizzo
+   affiliation: American University
+ - name: Paulo Cortez
+   affiliation: University of Minho
+ - name: Margarida A. Costa
+   affiliation: Faculdade de Ciências da Universidade do Porto
+ - name: Bruno Cremilleux
+   affiliation: Université de Caen Normandie
+ - name: Annunziata D'Aversa
+   affiliation: University of Bari "Aldo Moro"
+ - name: Le Doan
+   affiliation: Teesside University
+ - name: Katharina Dost
+   affiliation: Jozef Stefan Institute
+ - name: Haimonti Dutta
+   affiliation: University at Buffalo
+ - name: Tome Eftimov
+   affiliation: Jozef Stefan Institute
+ - name: Fabio Fassetti
+   affiliation: Universita della Calabria
+ - name: Luca Ferragina
+   affiliation: University of Calabria
+ - name: Pedro G Ferreira
+   affiliation: Dep. of Computer Science, Faculty of Sciences University of Porto
+ - name: Michele Fontana
+   affiliation: Università di Pisa
+ - name: Johannes Fürnkranz
+   affiliation: JKU Linz
+ - name: Takayasu Fushimi
+   affiliation: Tokyo University of Technology
+ - name: Dragan Gamberger
+   affiliation: Rudjer Boskovic Institute
+ - name: Boštjan Gec
+   affiliation: Jožef Stefan Institute
+ - name: Gizem Gezici
+   affiliation: Scuola Normale Superiore
+ - name: Claudio Giovannoni
+   affiliation: Università di Pisa
+ - name: Hristijan Gjoreski
+   affiliation: Ss. Cyril and Methodius University
+ - name: Rui J. Gomes
+   affiliation: Universidade Portucalense Infante D.Henrique
+ - name: Rafael Gomes Mantovani
+   affiliation: Federal Technology University - Paraná (UTFPR)
+ - name: Alexander H. Gower
+   affiliation: Chalmers University of Technology
+ - name: Howard J. Hamilton
+   affiliation: University of Regina
+ - name: Kohei Hatano
+   affiliation: Kyushu University / RIKEN AIP
+ - name: Martin Holena
+   affiliation: Institute of Computer Science
+ - name: Van Anh Huynh-Thu
+   affiliation: University of Liege
+ - name: Dino Ienco
+   affiliation: INRAE
+ - name: Roberto Interdonato
+   affiliation: CIRAD
+ - name: Xiangjian Jiang
+   affiliation: University of Cambridge
+ - name: Ross King
+   affiliation: Chalmers University of Technology
+ - name: Ivan Kitanovski
+   affiliation:  Ss. Cyril and Methodius University
+ - name: Dragi Kocev
+   affiliation: Jožef Stefan Institute
+ - name: Boshko Koloski
+   affiliation: Jožef Stefan Institute (JSI)
+ - name: Ana Kostovska
+   affiliation: Jožef Stefan Institute
+ - name: Vincent Labatut
+   affiliation: Université d'Avignon
+ - name: Cristiano Landi
+   affiliation: University of Pisa
+ - name: Anne Laurent
+   affiliation: University of Montpellier
+ - name: Nada Lavrač 
+   affiliation: Jožef Stefan Institute, Ljubljana, Slovenia
+ - name: Angelica Liguori
+   affiliation: University of Calabria
+ - name: Donato Malerba
+   affiliation: Università degli Studi di Bari Aldo Moro
+ - name: Lorenzo Mannocci
+   affiliation: UNIPI
+ - name: Andrei Margeloiu
+   affiliation: University of Cambridge
+ - name: Fabrizio Marozzo
+   affiliation: Universita' della Calabria
+ - name: Matej Martinc
+   affiliation: Jozef Stefan Institute
+ - name: Elio Masciari
+   affiliation: University of Naples, Italy
+ - name: Florent Masseglia
+   affiliation: INRIA
+ - name: Sebastian Mežnar
+   affiliation: Jožef Stefan Institute
+ - name: Biljana Mileva Boshkoska
+   affiliation: Institute Jožef Stefan
+ - name: Marta Moreno
+   affiliation: Universidade do Minho
+ - name: Nontokozo Mpofu
+   affiliation: SPU
+ - name: Julio C. Muñoz-Benítez
+   affiliation: INAOE
+ - name: Mirco Nanni
+   affiliation: CNR-ISTI Pisa, Italy
+ - name: Francesca Naretto
+   affiliation: University of Pisa
+ - name: Claire Nédellec
+   affiliation: INRAE, MaIAGE
+ - name: Masaaki Nishino
+   affiliation: NTT Corporation
+ - name: Simona Nisticò
+   affiliation: University of Calabria
+ - name: Ana Rita Nogueira
+   affiliation: INESCTEC
+ - name: Andreas Nürnberger
+   affiliation: Otto-von-Guericke-Universität Magdeburg
+ - name: Nina Omejc
+   affiliation: Jozef Stefan Institute
+ - name: Chetraj Pandey
+   affiliation: Georgia State University
+ - name: Pance Panov
+   affiliation: Jozef Stefan Institute
+ - name: Vincenzo Pasquadibisceglie
+   affiliation: University of Bari Aldo Moro
+ - name: Kaustubh Patil
+   affiliation: Institute of Neuroscience and Medicine, Brain & Behaviour (INM-7), Research Centre Jülich
+ - name: Antonio Pellicani
+   affiliation: Università degli Studi di Bari Aldo Moro
+ - name: Bernhard Pfahringer
+   affiliation: University of Waikato
+ - name: Simone Piaggesi
+   affiliation: University of Pisa
+ - name: Francesco S. Pisani
+   affiliation: ICAR-CNR
+ - name: Vid Podpecan
+   affiliation: Jožef Stefan Institute
+ - name: Pavlin G. Poličar
+   affiliation: Faculty of Computer and Information Science, University of Ljubljana
+ - name: Stefano Polimena
+   affiliation: University of Bari Aldo Moro
+ - name: Luboš Popelínský
+   affiliation: Faculty of Informatics, Masaryk University
+ - name: Aleksandra Rashkovska Koceva
+   affiliation: Jožef Stefan Institute, Slovenia
+ - name: Mathieu Roche
+   affiliation: 
+ - name: Julian Martin Rodemann
+   affiliation: LMU Munich
+ - name: Joana Santos
+   affiliation: FEUP/ISEP
+ - name: José Luis Seixas Jr.
+   affiliation: ELTE - Eötvös Loránd university
+ - name: Kaveh Shahhosseini
+   affiliation: Teesside University
+ - name: Larissa Andrade Silva
+   affiliation: Universidade Federal do Amazonas - ICOMP
+ - name: Nuno Silva
+   affiliation: Polythecnic Institute of Porto
+ - name: Paula Silva
+   affiliation: INESC TEC - LIAAD, FEUP
+ - name: Esther-Lydia Silva-Ramírez
+   affiliation: Universidad de Cádiz
+ - name: Nikola Simidjievski
+   affiliation: Télécom Paris, Institut Polytechnique de Paris
+ - name: Aristeidis Sionakidis
+   affiliation: University of Cambridge
+ - name: Tomislav Šmuc
+   affiliation: Institut Ruđer Bošković
+ - name: Carlos Soares
+   affiliation: U. Porto / Fraunhofer AICOS Portugal
+ - name: Domen Šoberl
+   affiliation: University of Primorska
+ - name: Larisa Soldatova
+   affiliation: Goldsmiths, University of London
+ - name: Arnaud Soulet
+   affiliation: University of Tours, France
+ - name: Martin Špendl
+   affiliation: Faculty of Computer and Information Science, University of Ljubljana
+ - name: Myra Spiliopoulou
+   affiliation: Otto-von-Guericke-University Magdeburg
+ - name: Sintija Stevanoska
+   affiliation: Jožef Stefan Institute
+ - name: Marco Javier Suárez Barón
+   affiliation: UPTC
+ - name: Domenico Talia
+   affiliation: UNICAL
+ - name: Maguelonne Teisseire
+   affiliation: INRAE - UMR Tetis
+ - name: Rafael G Teixeira
+   affiliation: Instituto de Telecomunicações
+ - name: Sónia Teixeira
+   affiliation: INESC TEC
+ - name: Peter van der Putten
+   affiliation: Leiden University
+ - name: Georgios Vardakas
+   affiliation: University of Ioannina
+ - name: Davide Vega
+   affiliation: Uppsala University
+ - name: Bruno Veloso
+   affiliation: INESC TEC & FEP-UP
+ - name: Suraj Verma
+   affiliation: Teesside University
+ - name: Bernard Zenko
+   affiliation: Jozef Stefan Institute
+ - name: Xuan Zhao
+   affiliation: Forschungszentrum Jülich GmbH
+ - name: Albrecht Zimmermann
+   affiliation: Université de Caen Normandie
+ - name: Blaz Zupan
+   affiliation: Lublijana University
