@@ -79,24 +79,31 @@ pretty_table: true
 
 <div class="col-lg-12">
     <div class="row">
-        <div class="col-lg-4 tab-title">
+        <div class="col-lg-3 tab-title">
+            <a href="#day0" class="day-link">
+                <div>
+                    22 SEP 2025
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 tab-title">
             <a href="#day1" class="day-link">
                 <div>
-                    DAY 1
+                    23 SEP 2025
                 </div>
             </a>
         </div>
-        <div class="col-lg-4 tab-title">
+        <div class="col-lg-3 tab-title">
             <a href="#day2" class="day-link">
                 <div>
-                    DAY 2
+                    24 SEP 2025
                 </div>
             </a>
         </div>
-        <div class="col-lg-4 tab-title">
+        <div class="col-lg-3 tab-title">
             <a href="#day3" class="day-link">
                 <div>
-                    DAY 3
+                    25 SEP 2025
                 </div>
             </a>
         </div>
@@ -106,8 +113,27 @@ pretty_table: true
 
 <div class="col-lg-12" style="padding:0px; margin-top: 15px">
     <table class="table-borderless">
+        <tr id="day0">
+            <td colspan="4" class="tab-title">22 SEP 2025</td>
+        </tr>
+        <tr class="tr-grey">
+            <td class="time title">Afternoon</td>
+            <td colspan="3" class="section-name tr-grey title">Opening & welcome reception</td>
+        </tr>
+        <tr id="day1" class="space">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="space">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
-            <td colspan="4" class="tab-title" id="day1">DAY 1 - 23 SEPTEMBER 2025</td>
+            <td colspan="4" class="tab-title">23 SEP 2025</td>
         </tr>
         <tr class="tr-grey">
             <td class="time title">08:30 - 09:20</td>
@@ -145,7 +171,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">10:30 - 11:00</td>
-            <td colspan="3" class="section-name tr-grey title">Coffeee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
@@ -214,7 +240,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">16:00 - 16:30</td>
-            <td colspan="3" class="section-name tr-grey title">Coffeee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">16:30 - 17:30</td>
@@ -227,17 +253,17 @@ pretty_table: true
             <td class="title border-top">Paper Title</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">70</td>
+            <td class="paper-id border-left">70</td>
             <td>Kiara Stempel (Johannes Gutenberg University Mainz)*; Mattia Cerrato (Johannes Gutenberg University Mainz); Stefan Kramer (Johannes Gutenberg University Mainz)</td>
             <td>On the Potential of Deep Symbolic Models for Classification Problems</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">49</td>
+            <td class="paper-id border-left">49</td>
             <td>Florian Beck (JKU Linz)*; Johannes Fürnkranz (JKU Linz); Van Quoc Phuong Huynh (JKU Linz)</td>
             <td>Exploring the Design Space of Fair Tree Learning Algorithms</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">56</td>
+            <td class="paper-id border-left">56</td>
             <td>Artem Lunev (ITMO University)*; Nikolay Nikitin (ITMO University)</td>
             <td>Neuron-Level Architecture Search for Efficient Model Design</td>
         </tr>
@@ -259,7 +285,7 @@ pretty_table: true
             <td></td>
         </tr>
         <tr>
-            <td colspan="4" class="tab-title">DAY 2 - 24 SEPTEMBER 2025</td>
+            <td colspan="4" class="tab-title">24 SEP 2025</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">09:30 - 11:00</td>
@@ -288,7 +314,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">10:30 - 11:00</td>
-            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee  Break</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
@@ -357,10 +383,10 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">16:00 - 16:30</td>
-            <td colspan="3" class="section-name tr-grey title">Coffeee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
-            <td rowspan="5" class="time title">16:30 - 17:30</td>
+            <td rowspan="4" class="time title">16:30 - 17:30</td>
             <td colspan="2" class="section-name title"> </td>
             <td class="person-name title">Chair: TBD</td>
         </tr>
@@ -370,19 +396,14 @@ pretty_table: true
             <td class="title border-top">Paper Title</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">97</td>
+            <td class="paper-id border-left">97</td>
             <td>Matteo Salis (University of Turin)*; Gabriele Sartor (University of Turin); Marco  Pellegrino (University of Turin); Rosa Meo (University of Turin); Stefano  Ferraris (University of Turin); Abdourrahmane Atto (Université Savoie Mont Blanc)</td>
             <td>Extending Model-Agnostic XAI Methods for Regression Tasks in Spatio-Temporal Domains</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">93</td>
+            <td class="paper-id border-left">93</td>
             <td>Luca Corbucci (University of Pisa)*; Francesca Naretto (University of Pisa); Anna Monreale (University of Pisa)</td>
             <td>Enhancing Local Explanations with GAN-Based neighborhood generation</td>
-        </tr>
-        <tr class="tr-yellow">
-            <td class="title paper-id border-left"></td>
-            <td></td>
-            <td></td>
         </tr>
         <!-------------------------------------------DAY3--------------------------------------------->
         <tr id="day3" class="space">
@@ -398,7 +419,7 @@ pretty_table: true
             <td></td>
         </tr>
         <tr>
-            <td colspan="4" class="tab-title">DAY 3 - 25 SEPTEMBER 2025</td>
+            <td colspan="4" class="tab-title">25 SEP 2025</td>
         </tr>
         <tr class="tr-green">
             <td class="time tr-green title">09:30 - 10:30</td>
@@ -408,7 +429,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">10:30 - 11:00</td>
-            <td colspan="3" class="section-name tr-grey title">Coffeee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
@@ -496,7 +517,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">16:00 - 16:30</td>
-            <td colspan="3" class="section-name tr-grey title">Coffeee Break</td>
+            <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">16:30 - 17:30</td>
@@ -509,17 +530,17 @@ pretty_table: true
             <td class="title border-top">Paper Title</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">24</td>
+            <td class="paper-id border-left">24</td>
             <td>Veronica Buttaro (Università degli Studi di Bari "Aldo Moro")*; Giuseppe Lamanna (Lutech SPA); Donato Massaro (Lutech SPA); Claudio Basilio Caporusso (Lutech SPA); Gianvito Pio (Università degli Studi di Bari "Aldo Moro"); Michelangelo Ceci (Università degli Studi di Bari "Aldo Moro")</td>
             <td>A novel AI approach for the diagnosis of Alzheimer’s Disease from multi-modal incomplete data</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">58</td>
+            <td class="paper-id border-left">58</td>
             <td>Vanessa Toborek (University of Bonn)*; Florian Seiffarth (University of Bonn); Sebastian Müller (University of Bonn); Tamás Horváth (University of Bonn, Fraunhofer IAIS); Christian Bauckhage (University of Bonn, Fraunhofer IAIS)</td>
             <td>Exploring Curriculum Learning for Languages: Lessons from Regular Language Tasks</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="title paper-id border-left">86</td>
+            <td class="paper-id border-left">86</td>
             <td>Julio Corona (Instituto de Telecomunicações)*; Rafael Teixeira (Instituto de Telecomunicações); Mário Antunes (Instituto de Telecomunicações); Rui L. Aguiar (Instituto de Telecomunicações)</td>
             <td>Exploring Recommendations Attacks through Blind Optimization</td>
         </tr>
@@ -527,6 +548,10 @@ pretty_table: true
             <td class="time tr-green title">17:30 - 17:40</td>
             <td colspan="2" class="section-name title">Closing</td>
             <td class="person-name title">Sašo Džeroski (Jožef Stefan Institute), Vida Groznik (University of Ljubljana)</td>
+        </tr>
+        <tr class="tr-grey">
+            <td class="time title">18:30 - 20:00</td>
+            <td colspan="3" class="section-name tr-grey title">Poster Session & Aperitif</td>
         </tr>
     </table>
 </div>
