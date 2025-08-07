@@ -387,7 +387,7 @@ pretty_table: true
         </tr>
         <tr class="tr-yellow">
             <td rowspan="4" class="time title">16:30 - 17:30</td>
-            <td colspan="2" class="section-name title"> </td>
+            <td colspan="2" class="section-name title">Explainable AI for Science</td>
             <td class="person-name title">Chair: TBD</td>
         </tr>
         <tr class="tr-yellow">
