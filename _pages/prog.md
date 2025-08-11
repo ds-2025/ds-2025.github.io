@@ -319,7 +319,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
             <td colspan="2" class="section-name title">Explainable AI for Science</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Jan N. van Rijn</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -396,6 +396,11 @@ pretty_table: true
             <td class="title border-top">Paper Title</td>
         </tr>
         <tr class="tr-yellow">
+            <td class="paper-id border-left">82</td>
+            <td>Mustafa Cavus (Eskisehir Technical University)*; Jan N. van Rijn (Leiden University); Przemyslaw Biecek (Warsaw University of Technology)</td>
+            <td>Beyond the Single-Best Model: Rashomon Partial Dependence Profile for Trustworthy Explanations in AutoML</td>
+        </tr>
+        <tr class="tr-yellow">
             <td class="paper-id border-left">97</td>
             <td>Matteo Salis (University of Turin)*; Gabriele Sartor (University of Turin); Marco  Pellegrino (University of Turin); Rosa Meo (University of Turin); Stefano  Ferraris (University of Turin); Abdourrahmane Atto (Université Savoie Mont Blanc)</td>
             <td>Extending Model-Agnostic XAI Methods for Regression Tasks in Spatio-Temporal Domains</td>
@@ -465,11 +470,6 @@ pretty_table: true
             <td class="title paper-id border-top-left">Paper ID</td>
             <td class="title border-top">Author Names</td>
             <td class="title border-top">Paper Title</td>
-        </tr>
-        <tr class="tr-yellow">
-            <td class="paper-id border-left">82</td>
-            <td>Mustafa Cavus (Eskisehir Technical University)*; Jan N. van Rijn (Leiden University); Przemyslaw Biecek (Warsaw University of Technology)</td>
-            <td>Beyond the Single-Best Model: Rashomon Partial Dependence Profile for Trustworthy Explanations in AutoML</td>
         </tr>
         <tr class="tr-yellow">
             <td class="paper-id border-left">45</td>
