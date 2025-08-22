@@ -386,7 +386,7 @@ pretty_table: true
             <td colspan="3" class="section-name tr-grey title">Coffee Break</td>
         </tr>
         <tr class="tr-yellow">
-            <td rowspan="4" class="time title">16:30 - 17:30</td>
+            <td rowspan="6" class="time title">16:30 - 17:30</td>
             <td colspan="2" class="section-name title">Explainable AI for Science</td>
             <td class="person-name title">Chair: TBD</td>
         </tr>
@@ -409,6 +409,11 @@ pretty_table: true
             <td class="paper-id border-left">93</td>
             <td>Luca Corbucci (University of Pisa)*; Francesca Naretto (University of Pisa); Anna Monreale (University of Pisa)</td>
             <td>Enhancing Local Explanations with GAN-Based neighborhood generation</td>
+        </tr>
+           <tr class="tr-yellow">
+            <td class="paper-id border-left">88</td>
+            <td>Cátia Teixeira (FEUP)*; Inês Gomes (FEUP); Carlos Soares (FEUP); Jan van Rijn (Leiden University)</td>
+            <td>Hubris Benchmarking with AmbiGANs: Assessing Model Overconfidence with Synthetic Ambiguous Data</td>
         </tr>
         <!-------------------------------------------DAY3--------------------------------------------->
         <tr id="day3" class="space">
@@ -462,7 +467,7 @@ pretty_table: true
             <td>Fine-Tuning Transformer-Based LLMs in Hierarchical Text Classification</td>
         </tr>
         <tr class="tr-yellow">
-            <td rowspan="5" class="time title">12:00 - 13:00</td>
+            <td rowspan="4" class="time title">12:00 - 13:00</td>
             <td colspan="2" class="section-name title">Model Uncertainty, Trustworthy and Human-Centered Explainable AI</td>
             <td class="person-name title">Chair: TBD</td>
         </tr>
@@ -477,16 +482,16 @@ pretty_table: true
             <td>CACTUS: A Context-aware Framework for Counterfactual Explanations Across Diverse Prediction Domains</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="paper-id border-left">88</td>
-            <td>Cátia Teixeira (FEUP)*; Inês Gomes (FEUP); Carlos Soares (FEUP); Jan van Rijn (Leiden University)</td>
-            <td>Hubris Benchmarking with AmbiGANs: Assessing Model Overconfidence with Synthetic Ambiguous Data</td>
+            <td class="paper-id border-left">50</td>
+            <td>Simone Amirato (University of Calabria)*; Fabrizio Angiulli (University of Calabria); Fabio Fassetti (University of Calabria)</td>
+            <td>Explaining Anomalous Data with Reinforcement Learning</td>
         </tr>
         <tr class="tr-grey">
             <td class="time title">13:00 - 14:30</td>
             <td colspan="3" class="section-name tr-grey title">Lunch Break</td>
         </tr>
         <tr class="tr-yellow">
-            <td rowspan="6" class="time title">14:30 - 16:00</td>
+            <td rowspan="5" class="time title">14:30 - 16:00</td>
             <td colspan="2" class="section-name title">Reinforcement Learning, Bandit Optimization</td>
             <td class="person-name title">Chair: TBD</td>
         </tr>
@@ -504,11 +509,6 @@ pretty_table: true
             <td class="paper-id border-left">87</td>
             <td>Masaki Hashimoto (Graduate School of Information Science and Technology, Hokkaido University)*; Atsuyoshi Nakamura (Graduate School of Information Science and Technology, Hokkaido University)</td>
             <td>A Contextual Bandit Algorithm for Recommending Item Sets with High Sum Diversity</td>
-        </tr>
-        <tr class="tr-yellow">
-            <td class="paper-id border-left">50</td>
-            <td>Simone Amirato (University of Calabria)*; Fabrizio Angiulli (University of Calabria); Fabio Fassetti (University of Calabria)</td>
-            <td>Explaining Anomalous Data with Reinforcement Learning</td>
         </tr>
         <tr class="tr-yellow">
             <td class="paper-id border-left">53</td>
