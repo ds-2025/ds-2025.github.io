@@ -41,6 +41,19 @@ nav_order: 6
 
 <hr>
 
+# Website Chair
+
+<div class="card-deck card-deck-org">
+    <div class="card card-org item-expand">
+        <img class="card-img-top shadow" src="/assets/img/chairs/prof_pic_antonio.jpg" alt="Antonio Pelicani">
+        <div class="card-body">
+            <h4 class="card-title">Antonio Pelicani</h4>
+            <h5>University of Bari "Aldo Moro", Italy</h5>
+        </div>
+    </div>
+</div>
+<hr>
+
 # Program Committee
 
 {% for member in site.data.chairs.program_committee %}
@@ -53,7 +66,8 @@ nav_order: 6
 {% endif %}
 
 <!-- split -->
-
+<!--
 # Sponsors
 
 Sponsors will be announced soon!
+-->
