@@ -253,14 +253,14 @@ pretty_table: true
             <td class="title border-top">Paper Title</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="paper-id border-left">70</td>
+            <td class="paper-id border-left">49</td>
             <td>Kiara Stempel (Johannes Gutenberg University Mainz)*; Mattia Cerrato (Johannes Gutenberg University Mainz); Stefan Kramer (Johannes Gutenberg University Mainz)</td>
-            <td>On the Potential of Deep Symbolic Models for Classification Problems</td>
+            <td>Exploring the Design Space of Fair Tree Learning Algorithms</td>
         </tr>
         <tr class="tr-yellow">
-            <td class="paper-id border-left">49</td>
+            <td class="paper-id border-left">70</td>
             <td>Florian Beck (JKU Linz)*; Johannes Fürnkranz (JKU Linz); Van Quoc Phuong Huynh (JKU Linz)</td>
-            <td>Exploring the Design Space of Fair Tree Learning Algorithms</td>
+            <td>On the Potential of Deep Symbolic Models for Classification Problems</td>
         </tr>
         <tr class="tr-yellow">
             <td class="paper-id border-left">56</td>
