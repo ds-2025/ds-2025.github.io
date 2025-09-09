@@ -140,7 +140,7 @@ pretty_table: true
             <td colspan="3" class="section-name tr-grey title">Registration</td>
         </tr>
         <tr class="tr-green">
-            <td class="time tr-green title">08:20 - 09:30</td>
+            <td class="time tr-green title">09:20 - 09:30</td>
             <td colspan="2" class="section-name title">Opening</td>
             <td class="person-name title">Sašo Džeroski (Jožef Stefan Institute), Vida Groznik (University of Ljubljana)</td>
         </tr>
