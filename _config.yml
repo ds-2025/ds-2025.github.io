@@ -326,6 +326,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - https://link.springer.com/book/9783032054616
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
