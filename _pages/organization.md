@@ -41,14 +41,23 @@ nav_order: 6
 
 <hr>
 
-# Website Chair
+# Organisation Committee
 
 <div class="card-deck card-deck-org">
     <div class="card card-org item-expand">
         <img class="card-img-top shadow" src="/assets/img/chairs/prof_pic_antonio.jpg" alt="Antonio Pelicani">
         <div class="card-body">
-            <h4 class="card-title">Antonio Pelicani</h4>
+            <h4 class="card-title">Antonio Pellicani</h4>
             <h5>University of Bari "Aldo Moro", Italy</h5>
+            <h5>Web chair</h5>
+        </div>
+    </div>
+        <div class="card card-org item-expand">
+        <img class="card-img-top shadow" src="/assets/img/chairs/SintijaStevanoska.png" alt="Sintija Stevanoska">
+        <div class="card-body">
+            <h4 class="card-title">Sintija Stevanoska</h4>
+            <h5>Jozef Stefan Institute, Slovenia</h5>
+            <h5>Local organisation</h5>
         </div>
     </div>
 </div>

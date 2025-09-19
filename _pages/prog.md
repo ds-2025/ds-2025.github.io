@@ -267,6 +267,106 @@ pretty_table: true
             <td>Artem Lunev (ITMO University)*; Nikolay Nikitin (ITMO University)</td>
             <td>Neuron-Level Architecture Search for Efficient Model Design</td>
         </tr>
+        <tr class="tr-yellow">
+            <td rowspan="20" class="time title">17:30 - 18:30</td>
+            <td colspan="2" class="section-name title">Late Breaking Papers Spotlight presentations (3mins)</td>
+            <td class="person-name title">Chair: TBD</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="title paper-id border-top-left">Paper ID</td>
+            <td class="title border-top">Author Names</td>
+            <td class="title border-top">Paper Title</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">130</td>
+            <td>Sabin Roman (Jožef Stefan Institute)*; Ljupco Todorovski (University of Ljubljana); Saso Dzeroski (Jožef Stefan Institute)</td>
+            <td>Embedding Orthogonality and Sparsity into Probabilistic Context-Free Grammars for Equation Discovery</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">146</td>
+            <td>Christian Camacho-Villalón (Jožef Stefan Institute)*; Ana Nikolikj (Jozef Stefan International Postgraduate School); Katharina  Dost (Jožef Stefan Institute); Eva Tuba (Jožef Stefan Institute; Trinity University; Singidunum University,); Sašo  Džeroski (Jožef Stefan Institute); Tome Eftimov (Jožef Stefan Institute)</td>
+            <td>Quantifying Module Interactions in the PSO-X Framework</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">153</td>
+            <td>Christian Camacho-Villalón (Jožef Stefan Institute)*; Nicolas Samelson (University of Auckland); Katharina  Dost (Jožef Stefan Institute); Jörg Wicker (University of Auckland); Sašo Džeroski (Jožef Stefan Institute)</td>
+            <td>From African Buffalo To Zombies: Quantifying Algorithm Similarity in the EC-Bestiary</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">202</td>
+            <td>Boštjan Gec (Jožef Stefan Institute)*; Sašo Džeroski (Jožef Stefan Institute); Ljupčo Todorovski (Faculty of mathematics and Physics, University of Ljubljana; Jožef Stefan Institute)</td>
+            <td>Discovery of exact equations via computing the Groebner basis</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">209</td>
+            <td>Luis Amorim (University of Porto)*; Vitor Cerqueira (University of Porto); Carlos Soares (University of Porto); Paulo Azevedo (University of Minho); Moises Santos (University of Porto)</td>
+            <td>Grasynda: Graph-based Synthetic Time Series Data Augmentation</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">213</td>
+            <td>Youssef Mahdoubi (Sultan Moulay Slimane University, Faculty Of Sciences and Technologies)*; Najlae Idrissi (Sultan Moulay Slimane University, Faculty Of Sciences and Technologies); Mathieu Roche (CIRAD); Sarah Valentin (CIRAD)</td>
+            <td>Enhancing Language Models for Specialized Classification  Tasks Using Selective Masking Strategies</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">214</td>
+            <td>Nikola Marić (Jožef Stefan Institute, Ljubljana, Slovenia)*; Boshko Koloski ( Jožef Stefan Institute, Ljubljana, Slovenia); Damjan Demšar (Jožef Stefan Institute, Ljubljana, Slovenia); Jan Jona Javoršek (Jožef Stefan Institute, Ljubljana, Slovenia); Sašo Džeroski (Jožef Stefan Institute, Ljubljana, Slovenia)</td>
+            <td>Running Large Language Models Locally: Design and Operational Insights with llm.ijs.si</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">219</td>
+            <td>Antonio Tolic (Faculty of Information Studies)*; Biljana Mileva Boshkoska (Jožef Stefan Institute); Sandro  Skansi (Faculty of Croatian Studies)</td>
+            <td>Gradient Calibration in LSTM Networks for Enhanced Learning Efficiency</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">220</td>
+            <td>Emilija Kizhevska (Jožef Stefan Institute)*; Mitja Luštrek (Jožef Stefan Institute); Biljana Mileva Boshkoska (Jožef Stefan Institute)</td>
+            <td>Empathy Prediction During VR Session Using Machine Learning and Interpretable Decision Systems</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">227</td>
+            <td>Ana Kostovska (Jožef Stefan Institute)*; Carola Doerr (Sorbonne Universite); Sašo Džeroski (Jožef Stefan Institute); Panče  Panov (Jožef Stefan Institute); Tome Eftimov (Jožef Stefan Institute)</td>
+            <td>Graph-Based Algorithm Performance Prediction in Black-Box Optimization</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">229</td>
+            <td>Abdul Sittar (Jozef Stefan Institute)*; Mateja Smiljanic (Jožef Stefan Institute); Alenka Gucek (Jožef Stefan Institute)</td>
+            <td>Enhancing Fake Tweet Classification with Synthetic Tweet Generation</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">230</td>
+            <td>Joseph Phillips (DePaul University)*</td>
+            <td>The Scienceomatic Environment: An Update</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">233</td>
+            <td>Sebastian Mežnar (Jožef Stefan Institute)*; Sašo Džeroski (Jožef Stefan Institute); Ljupčo Todorovski (University of Ljubljana)</td>
+            <td>Behavior-Aware Expression Dissimilarity</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">237</td>
+            <td>Maj Zirkelbach (University of Ljubljana)*</td>
+            <td>Forecasting Running Performance in Adolescents from Longitudinal Childhood Data</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">238</td>
+            <td>Matjaž Puh (ARSO)*</td>
+            <td>Uncertainty in regional weather forecasting: from a physical to a data-based model</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">239</td>
+            <td>David Lewis (AIXC)*; Enrique Zueco (AIXC)</td>
+            <td>Level 4: Building an Indestructible Pipeline for Agentic Science</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">240</td>
+            <td>Ana Nikolikj (Jožef Stefan Institute)*; Mario Andrés Muñoz (The University of Melbourne); Tome Eftimov (Jozef Stefan Institute)</td>
+            <td>Explainable Insights into Algorithm Behavior</td>
+        </tr>
+        <tr class="tr-yellow">
+            <td class="paper-id border-left">241</td>
+            <td>Francesco Benedetti (University of Bari Aldo Moro); Antonio Pellicani (University of Bari Aldo Moro)*; Gianvito Pio (University of Bari Aldo Moro); Michelangelo Ceci (University of Bari Aldo Moro)</td>
+            <td>Inductive Multi-perspective User Classification in Social Networks</td>
+        </tr>
         <tr class="tr-grey">
             <td class="time title">18:30 - 20:00</td>
             <td colspan="3" class="section-name tr-grey title">Poster Session (Late Breaking Papers + Paper IDs: 45, 58, 61, 62, 93, 96, 99) & Aperitif</td>
@@ -554,4 +654,5 @@ pretty_table: true
             <td colspan="3" class="section-name tr-grey title">Poster Session (Late Breaking Papers + Paper IDs: 24, 56, 86, 87, 93, 101) & Aperitif</td>
         </tr>
     </table>
+
 </div>
