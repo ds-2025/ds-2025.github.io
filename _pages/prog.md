@@ -147,7 +147,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">09:30 - 10:30</td>
             <td colspan="2" class="section-name title">Physics-informed Methods for Science</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Jure Brence</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -176,7 +176,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
             <td colspan="2" class="section-name title">Learning from Complex Data</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Michelangelo Ceci</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -211,7 +211,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="6" class="time title">14:30 - 16:00</td>
             <td colspan="2" class="section-name title">Symbolic Regression for Science</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Nikola Simidjievski</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -245,7 +245,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">16:30 - 17:30</td>
             <td colspan="2" class="section-name title">Model Design and Optimization: Symbolic Learning, Decision Trees, and NNs </td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Ana Kostovska</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -290,7 +290,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">09:30 - 11:00</td>
             <td colspan="2" class="section-name title">Unsupervised and Semi-Supervised Learning</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Dragi Kocev</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -354,7 +354,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="6" class="time title">14:30 - 16:00</td>
             <td colspan="2" class="section-name title">Few-Shot Learning, Data Streams</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Bernhard Pfahringer</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -388,7 +388,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="6" class="time title">16:30 - 18:00</td>
             <td colspan="2" class="section-name title">Explainable AI for Science</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Gianvito Pio</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -444,7 +444,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">11:00 - 12:00</td>
             <td colspan="2" class="section-name title">Foundation Models for Science, LLMs</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Marko Robnik Šikonja</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -469,7 +469,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="4" class="time title">12:00 - 13:00</td>
             <td colspan="2" class="section-name title">Model Uncertainty, Trustworthy and Human-Centered Explainable AI</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Aleksandra Rashkovska</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -493,7 +493,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">14:30 - 16:00</td>
             <td colspan="2" class="section-name title">Reinforcement Learning, Bandit Optimization</td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Stefan Kramer</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
@@ -522,7 +522,7 @@ pretty_table: true
         <tr class="tr-yellow">
             <td rowspan="5" class="time title">16:30 - 17:30</td>
             <td colspan="2" class="section-name title">Machine Learning Applications </td>
-            <td class="person-name title">Chair: TBD</td>
+            <td class="person-name title">Chair: Dino Ienco</td>
         </tr>
         <tr class="tr-yellow">
             <td class="title paper-id border-top-left">Paper ID</td>
