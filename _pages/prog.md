@@ -269,7 +269,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">18:30 - 20:00</td>
-            <td colspan="3" class="section-name tr-grey title">Poster Session & Aperitif</td>
+            <td colspan="3" class="section-name tr-grey title">Poster Session (Late Breaking Papers + Paper IDs: 45, 58, 61, 62, 93, 96, 99) & Aperitif</td>
         </tr>
         <!-------------------------------------------DAY2--------------------------------------------->
         <tr id="day2" class="space">
@@ -551,7 +551,7 @@ pretty_table: true
         </tr>
         <tr class="tr-grey">
             <td class="time title">18:30 - 20:00</td>
-            <td colspan="3" class="section-name tr-grey title">Poster Session & Aperitif</td>
+            <td colspan="3" class="section-name tr-grey title">Poster Session (Late Breaking Papers + Paper IDs: 24, 56, 86, 87, 93, 101) & Aperitif</td>
         </tr>
     </table>
 </div>
