@@ -388,7 +388,7 @@ pretty_table: true
             <td colspan="4" class="tab-title">24 SEP 2025</td>
         </tr>
         <tr class="tr-yellow">
-            <td rowspan="5" class="time title">09:30 - 11:00</td>
+            <td rowspan="5" class="time title">09:30 - 10:30</td>
             <td colspan="2" class="section-name title">Unsupervised and Semi-Supervised Learning</td>
             <td class="person-name title">Chair: Dragi Kocev</td>
         </tr>
