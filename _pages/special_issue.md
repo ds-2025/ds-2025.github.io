@@ -49,11 +49,12 @@ The guest editors (accounting for reviewers’ comments) will make the decision 
 
 Schedule:
 
-- Paper submission deadline: **February 13, 2026**
+- Paper submission deadline: ~~February 13, 2026~~ <span style="color:red">February 27, 2026</span>
 - First notification of acceptance: **May 22, 2026**
 - Deadline for revised submissions: **July 10, 2026**
 - Final notification of acceptance: **September 18, 2026**
 - Expected publication date (online): **November/December 2026**
+
 
 ## Submission procedure
 
